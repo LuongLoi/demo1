@@ -1,5 +1,5 @@
 # Ứng dụng Binance Market
-# Download app v1.0
+## Download app v1.0
 [<img src="https://user-images.githubusercontent.com/118048533/210755608-f6f1be92-4d3a-4128-b4ab-73d1845edbeb.png" alt="TradeLog" width="55"></img>]
 ### Mô tả hoạt động của ứng dụng Binance Market
 Hình ảnh đại diện của app: </br>
