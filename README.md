@@ -46,7 +46,7 @@ Khi đã có sản phẩm có thể thêm hoặc giảm số lượng sản ph�
 <img src="https://user-images.githubusercontent.com/104824157/211203181-a398b469-8c39-4a44-9a13-a88e21d06551.jpg" alt = "xoa" width = "200"> </img>
 <img src="https://user-images.githubusercontent.com/104824157/211203185-cd4551fa-d55b-43fc-80b1-0b4cbe0bd939.jpg" alt = "ketquaxoa" width = "200"> </img>
 </br>
-Chọn "Thanh toán giỏ hàng" ứng dụng sẽ chuyển đến trang "Thanh toán", ở đây sẽ sinh ra QRCode cho giao dịch, người dùng có thể dùng App Binance để quét QRCode để hiện thông tin giao dịch, hoạc người dùng có thể thanh toán một chạm khi chọn "Pay Now":
+Chọn "Thanh toán giỏ hàng" ứng dụng sẽ chuyển đến trang "Thanh toán", ở đây sẽ sinh ra QRCode cho giao dịch, người dùng có thể dùng App Binance để quét QRCode để hiện thông tin giao dịch, hoặc người dùng có thể thanh toán một chạm khi chọn "Pay Now":
 </br>
 <img src="https://user-images.githubusercontent.com/104824157/211203488-b780ca63-b3f6-42e4-ba0c-d52d3a939606.jpg" alt = "thanhtoan" width = "200"> </img>
 <img src="https://user-images.githubusercontent.com/104824157/211203531-5a44e746-3ea4-45cd-a2c0-8cd85599c3cd.jpg" alt = "thanhtoanmotcham" width = "200"> </img>
