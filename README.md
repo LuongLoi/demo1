@@ -5,5 +5,5 @@
 * Hình ảnh đại diện của app: </br>
 <img src="https://user-images.githubusercontent.com/104824157/211141488-e9dc92e9-2e78-4c6a-8021-865afe2bfbc5.jpg" alt = "icon" width = "200"> </img> </br>
 * Khi mở ứng dụng, trang chính Binance Market: </br>
-<img src="https://user-images.githubusercontent.com/104824157/211198323-3bdc902f-e730-4d2b-8aeb-d2fc6d79b528.jpg" alt = "trangchinh" width = "200" </img>
+<img src="https://user-images.githubusercontent.com/104824157/211198323-3bdc902f-e730-4d2b-8aeb-d2fc6d79b528.jpg" alt = "trangchinh" width = "200"> </img>
 </br>
