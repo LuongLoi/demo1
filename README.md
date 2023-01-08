@@ -7,6 +7,6 @@
 * Khi mở ứng dụng, trang chính Binance Market hiển thị như sau: </br>
 <img src="https://user-images.githubusercontent.com/104824157/211198323-3bdc902f-e730-4d2b-8aeb-d2fc6d79b528.jpg" alt = "trangchinh" width = "200"> </img>
 </br>
-Trong trang Binance Market có thể chọn menu loại sản phẩm: </br>
+** Trong trang Binance Market có thể chọn menu loại sản phẩm: </br>
 <img src ="https://user-images.githubusercontent.com/104824157/211198684-ae6e6eb6-4fae-4c43-9eee-7a3fe3e93f9b.jpg" alt = "trangchinh" width = "200"> </img>  </br>
 
