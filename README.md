@@ -21,9 +21,9 @@
 <img src="https://user-images.githubusercontent.com/104824157/211199762-2e9d616e-0804-42d8-8551-57d92d3860e7.jpg" alt = "xiaomi" width = "200"> </img>
 <img src="https://user-images.githubusercontent.com/104824157/211199878-645bb814-4ef0-47ab-bca6-7234f3f99bdf.jpg" alt = "vivo" width = "200"> </img>
 </br>
-* Trong trang "Thông tin chi tiết" có thể chọn số lượng sản phẩm muốn mua và "Thêm giỏ giỏ hàng":
+* Trong trang "Thông tin chi tiết" có thể chọn số lượng sản phẩm muốn mua và "Thêm giỏ hàng", ứng dụng chuyển sang trang "Giỏ hàng":
 </br>
-<img src="" alt = "chonsoluong" width = "200"> </img>
+<img src="https://user-images.githubusercontent.com/104824157/211201043-fb4dd852-0b80-4066-a237-038c3e249261.jpg" alt = "chonsoluong" width = "200"> </img>
 <img src="https://user-images.githubusercontent.com/104824157/211200400-8b368926-5c94-452a-ab59-6fa461280920.jpg" alt = "themgiohang" width = "200"> </img>
 <img src="https://user-images.githubusercontent.com/104824157/211200485-2a2db713-885c-4ce9-9f30-7c1d422f0894.jpg" alt = "giohang" width = "200"> </img>
 </br>
