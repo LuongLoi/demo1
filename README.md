@@ -21,13 +21,13 @@ Khi chọn vào các điện thoại (hoặc có thể chọn vào các điện 
 <img src="https://user-images.githubusercontent.com/104824157/211199762-2e9d616e-0804-42d8-8551-57d92d3860e7.jpg" alt = "xiaomi" width = "200"> </img>
 <img src="https://user-images.githubusercontent.com/104824157/211199878-645bb814-4ef0-47ab-bca6-7234f3f99bdf.jpg" alt = "vivo" width = "200"> </img>
 </br>
-Trong trang "Thông tin chi tiết" có thể chọn số lượng sản phẩm muốn mua và "Thêm giỏ hàng", ứng dụng chuyển sang trang "Giỏ hàng":
+Trong trang "Chi tiết sản phẩm" có thể chọn số lượng sản phẩm muốn mua và "Thêm giỏ hàng", ứng dụng chuyển sang trang "Giỏ hàng":
 </br>
 <img src="https://user-images.githubusercontent.com/104824157/211201043-fb4dd852-0b80-4066-a237-038c3e249261.jpg" alt = "chonsoluong" width = "200"> </img>
 <img src="https://user-images.githubusercontent.com/104824157/211200400-8b368926-5c94-452a-ab59-6fa461280920.jpg" alt = "themgiohang" width = "200"> </img>
 <img src="https://user-images.githubusercontent.com/104824157/211200485-2a2db713-885c-4ce9-9f30-7c1d422f0894.jpg" alt = "giohang" width = "200"> </img>
 </br>
-Trong trang "Binance Market", "Thông tin chi tiết", "Điện thoại" có thể chọn biểu tượng giỏ hàng để chuyển tới trang "Giỏ Hàng":
+Trong trang "Binance Market", "Chi tiết phẩmphẩm", "Điện thoại" có thể chọn biểu tượng giỏ hàng để chuyển tới trang "Giỏ Hàng":
 </br>
 <img src="https://user-images.githubusercontent.com/104824157/211202488-a1fdac1f-a96f-46de-b476-fab1b15e4de5.jpg" alt = "icongiohang0" width = "200"> </img>
 <img src="https://user-images.githubusercontent.com/104824157/211202525-e57498bb-d73d-45e2-abf1-df4473e2810e.jpg" alt = "icongiohang1" width = "200"> </img>
