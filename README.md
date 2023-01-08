@@ -27,4 +27,18 @@ Trong trang "Thông tin chi tiết" có thể chọn số lượng sản phẩm 
 <img src="https://user-images.githubusercontent.com/104824157/211200400-8b368926-5c94-452a-ab59-6fa461280920.jpg" alt = "themgiohang" width = "200"> </img>
 <img src="https://user-images.githubusercontent.com/104824157/211200485-2a2db713-885c-4ce9-9f30-7c1d422f0894.jpg" alt = "giohang" width = "200"> </img>
 </br>
+Trong trang "Binance Market", "Thông tin chi tiết", "Điện thoại" có thể chọn biểu tượng giỏ hàng để chuyển tới trang "Giỏ Hàng":
+</br>
+<img src="https://user-images.githubusercontent.com/104824157/211202488-a1fdac1f-a96f-46de-b476-fab1b15e4de5.jpg" alt = "icongiohang0" width = "200"> </img>
+<img src="https://user-images.githubusercontent.com/104824157/211202525-e57498bb-d73d-45e2-abf1-df4473e2810e.jpg" alt = "icongiohang1" width = "200"> </img>
+<img src="https://user-images.githubusercontent.com/104824157/211202532-105434b2-c060-400d-be85-2d0a6e221938.jpg" alt = "icongiohang2" width = "200"> </img>
+</br>
+Nếu giỏ hàng trống (chưa có sản phẩm nào được thêm vào):
+</br>
+<img src="https://user-images.githubusercontent.com/104824157/211202828-64b4be88-d38a-4c03-bfe5-db8bc44783f9.jpg" alt = "giohangtrong" width = "200"> </img>
+</br>
+Khi đã có sản phẩm có thể thêm hoặc giảm số lượng sản phẩm sử dụng "+" và "-". Trong ứng dụng này mặc định số lượng tối thiểu phải là 1, và số lượng tối đa là 10. Nếu số lượng sản phẩm là 1 thì không thể "-" (không giảm thêm được), số lượng sản phẩm là 10 thì không thể "+" (không tăng thêm được).
+</br>
+<img src="https://user-images.githubusercontent.com/104824157/211202896-73d5b19c-648a-4fdf-9cbb-697e789008cf.jpg" alt = "tanggiamgiohang" width = "200"> </img>
+</br>
 
